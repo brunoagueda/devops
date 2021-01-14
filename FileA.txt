@@ -1,1 +1,2 @@
 "This is FileA"  - version 2
+teste
